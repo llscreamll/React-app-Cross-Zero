@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-app-Cross-Zero/static/css/main.57b74b6a.chunk.css",
+    "main.js": "/React-app-Cross-Zero/static/js/main.dcdff8f6.chunk.js",
+    "main.js.map": "/React-app-Cross-Zero/static/js/main.dcdff8f6.chunk.js.map",
+    "runtime-main.js": "/React-app-Cross-Zero/static/js/runtime-main.6197a65d.js",
+    "runtime-main.js.map": "/React-app-Cross-Zero/static/js/runtime-main.6197a65d.js.map",
+    "static/js/2.0b9c6b91.chunk.js": "/React-app-Cross-Zero/static/js/2.0b9c6b91.chunk.js",
+    "static/js/2.0b9c6b91.chunk.js.map": "/React-app-Cross-Zero/static/js/2.0b9c6b91.chunk.js.map",
+    "index.html": "/React-app-Cross-Zero/index.html",
+    "precache-manifest.0464211177ff85afcd59c263c57c7ec4.js": "/React-app-Cross-Zero/precache-manifest.0464211177ff85afcd59c263c57c7ec4.js",
+    "service-worker.js": "/React-app-Cross-Zero/service-worker.js",
+    "static/css/main.57b74b6a.chunk.css.map": "/React-app-Cross-Zero/static/css/main.57b74b6a.chunk.css.map",
+    "static/js/2.0b9c6b91.chunk.js.LICENSE.txt": "/React-app-Cross-Zero/static/js/2.0b9c6b91.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6197a65d.js",
+    "static/js/2.0b9c6b91.chunk.js",
+    "static/css/main.57b74b6a.chunk.css",
+    "static/js/main.dcdff8f6.chunk.js"
+  ]
+}
